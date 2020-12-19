@@ -7,4 +7,7 @@ for (var p=0; p<this.numPages; p++) {
   rCrop[3] += 50; // Adjust Bottom Side 70
   this.setPageBoxes("Crop",p,p,rCrop);
     
+    // Command to get the size of the actual page
+    //this.getPageBox("Crop", this.pageNum)
+    
 }
