@@ -11,4 +11,9 @@ var delePage = function(doc) {
 app.addToolButton(
     {
     cName: "DelePage",
+    cLabel: "Delete Page",
+
+);
+
+
     
