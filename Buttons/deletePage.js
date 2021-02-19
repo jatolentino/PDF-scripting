@@ -12,7 +12,9 @@ app.addToolButton(
     {
     cName: "DelePage",
     cLabel: "Delete Page",
-
+    cExec: "delePage(this);",
+    cEnable: "event.rc = (app.doc && numPages > 1 && (typeof xfa === \"undefined\"));"
+    }
 );
 
 
