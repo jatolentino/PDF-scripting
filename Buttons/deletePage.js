@@ -7,3 +7,8 @@ var delePage = function(doc) {
         app.alert("Could not delete page, probably because the document is secured.", 3);
     }
 };
+ 
+app.addToolButton(
+    {
+    cName: "DelePage",
+    
