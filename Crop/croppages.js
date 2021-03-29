@@ -9,5 +9,4 @@ for (var p=0; p<this.numPages; p++) {
     
     // Command to get the size of the actual page
     //this.getPageBox("Crop", this.pageNum)
-    
 }
