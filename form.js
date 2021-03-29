@@ -10,4 +10,3 @@ for (var p=0; p<this.numPages; p++) {
     // Command to get the size of the page i.e. 3
     //this.getPageBox("Crop", 3)
 }
-
