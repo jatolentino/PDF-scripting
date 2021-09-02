@@ -16,4 +16,4 @@ app.addToolButton(
     cEnable: "event.rc = (app.doc && numPages > 1 && (typeof xfa === \"undefined\"));"
     }
 );
-    
+   
