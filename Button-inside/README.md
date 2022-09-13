@@ -2,7 +2,7 @@
 
 ### Code in JS
 
-    Verify on in the Adobe terminal
+- Verify on in the Adobe terminal
     
     ```js
     var aPage = this.getPageBox();
