@@ -2,6 +2,8 @@
 
 ### Code in JS
 
+    Verify on in the Adobe terminal
+    
     ```js
     var aPage = this.getPageBox();
     var w = 45; // Width of each button
