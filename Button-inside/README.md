@@ -2,7 +2,7 @@
 
 ### Code in JS
 
-    ```javascript
+    ```JS
     var aPage = this.getPageBox();
     var w = 45; // Width of each button
     var h = 12 // Height of each button
@@ -35,6 +35,7 @@
         var nv = this.addField("NextView", "button", nPage, [ hoffset + 3*w + 3*g, voffset, hoffset + 4*w + 3*g, voffset + h ] );
     }
     ```
+    
 <p align="center">
     <img src="https://github.com/jatolentino/PDF-scripting/blob/master/Button-inside/Lorem%20ipsum.png" width="600">
 </p>
