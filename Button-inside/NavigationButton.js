@@ -28,4 +28,4 @@ for (var nPage = 0; nPage < this.numPages; nPage++) {
 	pv.fillColor=color.ltGray;
 	pv.setAction("MouseUp", "app.goBack()");
 	var nv = this.addField("NextView", "button", nPage, [ hoffset + 3*w + 3*g, voffset, hoffset + 4*w + 3*g, voffset + h ] );
-	
+}
