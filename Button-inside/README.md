@@ -2,7 +2,7 @@
 
 ### Code in JS
 
-    ```JS
+    ```js
     var aPage = this.getPageBox();
     var w = 45; // Width of each button
     var h = 12 // Height of each button
